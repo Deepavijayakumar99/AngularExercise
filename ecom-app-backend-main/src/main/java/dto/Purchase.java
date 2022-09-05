@@ -9,9 +9,6 @@ import entity.Customer;
 import entity.Order;
 import entity.OrderItem;
 
-/**
- * @author <a href="https://github.com/ouhamzalhss"> Lhouceine OUHAMZA </a>
- */
 
 @Data
 public class Purchase {
