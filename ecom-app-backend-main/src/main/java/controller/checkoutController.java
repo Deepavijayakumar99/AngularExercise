@@ -7,9 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import dto.Purchase;
 import dto.PurchaseResponse;
 
-/**
- * @author <a href="https://github.com/ouhamzalhss"> Lhouceine OUHAMZA </a>
- */
+
 
 @RestController
 @CrossOrigin()
