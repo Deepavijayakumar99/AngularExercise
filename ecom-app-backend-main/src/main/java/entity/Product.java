@@ -9,9 +9,7 @@ import javax.persistence.*;
 import java.math.BigDecimal;
 import java.util.Date;
 
-/**
- * @author <a href="https://github.com/ouhamzalhss"> Lhouceine OUHAMZA </a>
- */
+
 @Entity
 @Data
 @Table(name = "product")
